@@ -1,5 +1,6 @@
 # 🎯 TikTok Claims Classification Project
 
+![image](https://github.com/user-attachments/assets/2c71b916-7fa1-49a4-b145-ce19bb947c71)
 
 
 
