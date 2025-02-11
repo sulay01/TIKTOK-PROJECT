@@ -86,6 +86,6 @@ To **fully interact** with the Power BI visualizations, **download and install P
 📅 **Date:** February 10, 2025  
 
 
-Data is fictional and only done as a demonstration solely for this project for Google.
+Data is fictional and completed as a demonstration solely for this project for Google.
 
 RESOURCES: GOOGLE DATA ADVANCED ANALYTICS
