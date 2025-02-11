@@ -31,7 +31,11 @@ ___
 
 You can view the SUMS_TIKTOK PDF document [here](https://github.com/sulay01/Tiktok-Project/blob/main/SUMS_TIKTOK.pdf).
 
+
 You can view the TIKTOK_VISIUAL_TABLE_REPORT PDF document [here](https://github.com/sulay01/Tiktok-Project/blob/main/TIKTOK_VISUAL_TABLE_REPORT.pdf).
+
+
+You can view the TIKTOK_WATCHTIME PDF document [here](https://github.com/sulay01/Tiktok-Project/blob/main/TIKTOK_WATCHTIME.pdf).
 
 
 
