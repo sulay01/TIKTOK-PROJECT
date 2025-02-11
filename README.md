@@ -21,6 +21,9 @@
 This project lays the foundation for **automated claims classification on TikTok**, improving **content moderation efficiency and accuracy**. By leveraging **machine learning and AI**, TikTok can **enhance user experience, reduce misinformation, and streamline claim verification processes**.
 
 ---
+## DOWNLOAD PACE
+[PACE_TIKTOK]https://github.com/sulay01/Tiktok-Project/blob/main/PACE_TIKTOK%20(1).pdf
+
 
 ## 📅 Date: February 10, 2025  
 
