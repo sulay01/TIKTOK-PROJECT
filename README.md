@@ -29,12 +29,11 @@ This project lays the foundation for **automated claims classification on TikTok
 
 ## 📂 Downloadable Files
 - 📜 **[PACE_TIKTOK](https://github.com/sulay01/Tiktok-Project/blob/main/PACE_TIKTOK%20(1).pdf)**
-- 📘 **[TIKTOK_JPYNB](https://github.com/YOUR_GITHUB_REPO_LINK/raw/main/TIKTOK_JPYNB.ipynb)**
+- 📘 **[TIKTOK_JPYNB](https://github.com/sulay01/Tiktok-Project/blob/main/Activity_Course%202%20TikTok%20project%20lab.ipynb))**
 - 📈 **Visual Reports:**
-  - 🔹 **[Line Charts](https://github.com/YOUR_GITHUB_REPO_LINK/raw/main/TikTok_Line_Charts.pdf)**
-  - 🔹 **[Sums_TIKTOK PDF](https://github.com/YOUR_GITHUB_REPO_LINK/raw/main/Sums_TIKTOK.pdf)**
-  - 🔹 **[TikTok_Visual_Table_Report PDF](https://github.com/YOUR_GITHUB_REPO_LINK/raw/main/TikTok_Visual_Table_Report.pdf)**
-  - 🔹 **[TikTok_Watchtime PDF](https://github.com/YOUR_GITHUB_REPO_LINK/raw/main/TikTok_Watchtime.pdf)**
+  - 🔹 **[Sums_TIKTOK PDF](https://github.com/sulay01/Tiktok-Project/blob/main/SUMS_TIKTOK.pdf)**
+  - 🔹 **[TikTok_Visual_Table_Report PDF](https://github.com/sulay01/Tiktok-Project/blob/main/TIKTOK_VISUAL_TABLE_REPORT.pdf)**
+  - 🔹 **[TikTok_Watchtime PDF](https://github.com/sulay01/Tiktok-Project/blob/main/TIKTOK_WATCHTIME.pdf)**
 
 ---
 
@@ -47,7 +46,9 @@ To **fully interact** with the Power BI visualizations, **download and install P
 - Explore **interactive dashboards**, filters, and insights!
 
 🔹 **Download Power BI Files**:
-- **[TikTok_Dashboard.pbix](https://github.com/YOUR_GITHUB_REPO_LINK/raw/main/TikTok_Dashboard.pbix)**
+- **[SUMS_TikTok_Dashboard.pbix](https://github.com/sulay01/Tiktok-Project/blob/main/SUMS_TIKTOK.pbix)**
+- **[TikTok_Visual_Table_Report_Dashboard.pbix](https://github.com/sulay01/Tiktok-Project/blob/main/TIKTOK_VISUAL_TABLE_REPORT.pbix)**
+- **[TikTok_Watchtime_Dashboard.pbix](https://github.com/sulay01/Tiktok-Project/blob/main/TIKTOK_WATCHTIME%20(1).pbix)**
 
 ---
 
