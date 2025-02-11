@@ -27,6 +27,11 @@ This project lays the foundation for **automated claims classification on TikTok
 [TIKTOK_JPYNB](https://github.com/sulay01/Tiktok-Project/blob/main/Activity_Course%202%20TikTok%20project%20lab.ipynb)
 
 ___
+## Visuals Line Charts 
+
+You can view the PDF document [here](https://github.com/sulay01/Tiktok-Project/blob/main/SUMS_TIKTOK.pdf).
+
+
 ## 📅 Date: February 10, 2025  
 
 ### 📂 **Repository Contents**
