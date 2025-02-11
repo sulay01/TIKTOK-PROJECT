@@ -22,9 +22,9 @@ This project lays the foundation for **automated claims classification on TikTok
 
 ---
 ## DOWNLOAD PACE
-[PACE_TIKTOK]https://github.com/sulay01/Tiktok-Project/blob/main/PACE_TIKTOK%20(1).pdf
+[PACE_TIKTOK](https://github.com/sulay01/Tiktok-Project/blob/main/PACE_TIKTOK%20(1).pdf)
 
-
+___
 ## 📅 Date: February 10, 2025  
 
 ### 📂 **Repository Contents**
