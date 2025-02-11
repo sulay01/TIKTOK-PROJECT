@@ -33,7 +33,7 @@ This project lays the foundation for **automated claims classification on TikTok
 - 📈 **Visual Reports:**
   - 🔹 **[Sums_TIKTOK PDF](https://github.com/sulay01/Tiktok-Project/blob/main/SUMS_TIKTOK.pdf)**
   - 🔹 **[TikTok_Visual_Table_Report PDF](https://github.com/sulay01/Tiktok-Project/blob/main/TIKTOK_VISUAL_TABLE_REPORT.pdf)**
-  - 🔹 **[TikTok_Watchtime PDF](https://github.com/sulay01/Tiktok-Project/blob/main/TIKTOK_WATCHTIME.pdf)**
+  - 🔹 **[TikTok_REPORT_Table_date_views_likes_shares PDF](https://github.com/sulay01/Tiktok-Project/blob/main/TIKTOK_REPORT_Table_date_views_likes_shares.pdf))**
 
 ---
 
