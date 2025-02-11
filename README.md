@@ -29,7 +29,12 @@ This project lays the foundation for **automated claims classification on TikTok
 ___
 ## Visuals Line Charts 
 
-You can view the PDF document [here](https://github.com/sulay01/Tiktok-Project/blob/main/SUMS_TIKTOK.pdf).
+You can view the SUMS_TIKTOK PDF document [here](https://github.com/sulay01/Tiktok-Project/blob/main/SUMS_TIKTOK.pdf).
+
+You can view the TIKTOK_VISIUAL_TABLE_REPORT PDF document [here](https://github.com/sulay01/Tiktok-Project/blob/main/TIKTOK_VISUAL_TABLE_REPORT.pdf).
+
+
+
 
 
 ## 📅 Date: February 10, 2025  
