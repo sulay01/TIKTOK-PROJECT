@@ -1,5 +1,8 @@
 # 🎯 TikTok Claims Classification Project
 
+![image](https://github.com/user-attachments/assets/8e63a37f-6121-4f63-93f5-1bbed871133b)
+
+
 ## 📌 Overview
 The TikTok data team is working on a **machine learning model** to classify **claims in videos**. This project aims to **streamline the claims review process** by determining whether **statements made in videos** are **claims (fact-based) or opinions (subjective beliefs)**. By analyzing **engagement patterns and textual content**, this project will help **automate content moderation and improve classification accuracy**.
 
