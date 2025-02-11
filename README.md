@@ -1,5 +1,3 @@
-# TIKTOK-PROJECT
-TikTok Claims Classification Project 
 # 🎯 TikTok Claims Classification Project
 
 ## 📌 Overview
