@@ -19,6 +19,13 @@
 ✅ **New feature engineering** completed, including word frequency analysis for predictive modeling.  
 ✅ **Irrelevant columns removed** to optimize model performance and data processing speed.  
 ✅ **Deploy Model for Content Moderation** – Implement AI-powered automation to assist TikTok’s content review teams.
+___
+
+## Visuals Dashboards POWER BI
+
+![image](https://github.com/user-attachments/assets/3c390618-df78-4912-b8e7-6aaa4ee5fb61)
+
+
 
 ---
 
