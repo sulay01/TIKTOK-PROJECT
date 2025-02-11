@@ -28,7 +28,7 @@ This project lays the foundation for **automated claims classification on TikTok
 ---
 
 ## 📂 Downloadable Files
-- 📜 **[PACE_TIKTOK](https://github.com/YOUR_GITHUB_REPO_LINK/raw/main/PACE_TIKTOK.pdf)**
+- 📜 **[PACE_TIKTOK](https://github.com/sulay01/Tiktok-Project/blob/main/PACE_TIKTOK%20(1).pdf)**
 - 📘 **[TIKTOK_JPYNB](https://github.com/YOUR_GITHUB_REPO_LINK/raw/main/TIKTOK_JPYNB.ipynb)**
 - 📈 **Visual Reports:**
   - 🔹 **[Line Charts](https://github.com/YOUR_GITHUB_REPO_LINK/raw/main/TikTok_Line_Charts.pdf)**
